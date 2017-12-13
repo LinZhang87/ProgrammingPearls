@@ -1,3 +1,4 @@
+package com.pp.column2;
 /*
  * Rotate a one-dimensional vector of n elements left by i positions.
  * For instance, with n = 8 and i = 3, the vector abcdefgh is rotated to defghabc. 
